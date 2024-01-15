@@ -1,0 +1,3 @@
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1_build_debug/CMakeFiles/Tutorial.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1_build_debug/CMakeFiles/edit_cache.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1_build_debug/CMakeFiles/rebuild_cache.dir

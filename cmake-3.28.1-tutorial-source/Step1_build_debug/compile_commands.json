@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1_build_debug",
+  "command": "/usr/bin/clang++ -I/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1_build_debug -g -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1/tutorial.cxx",
+  "file": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step1/tutorial.cxx"
+}
+]
