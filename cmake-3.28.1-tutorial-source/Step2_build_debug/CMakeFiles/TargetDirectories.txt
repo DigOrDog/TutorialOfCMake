@@ -1,0 +1,6 @@
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/CMakeFiles/Tutorial.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/CMakeFiles/edit_cache.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/CMakeFiles/rebuild_cache.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/MathFunctions/CMakeFiles/edit_cache.dir
+/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug/MathFunctions/CMakeFiles/rebuild_cache.dir

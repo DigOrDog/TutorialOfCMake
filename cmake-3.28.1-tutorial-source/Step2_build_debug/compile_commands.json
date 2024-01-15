@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug",
+  "command": "/usr/bin/clang++-10 -I/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug -I/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/MathFunctions -g -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/tutorial.cxx",
+  "file": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/tutorial.cxx"
+},
+{
+  "directory": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o -c /home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/MathFunctions/MathFunctions.cxx",
+  "file": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/MathFunctions/MathFunctions.cxx"
+},
+{
+  "directory": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2_build_debug",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o -c /home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/MathFunctions/mysqrt.cxx",
+  "file": "/home/hucheng/project/TutorialOfCMake/cmake-3.28.1-tutorial-source/Step2/MathFunctions/mysqrt.cxx"
+}
+]
